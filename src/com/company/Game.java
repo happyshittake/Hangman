@@ -46,7 +46,7 @@ public class Game {
                     this.decrementChance();
                 }
             } else {
-                System.out.printf("kata %s sudah anda masukkan", word);
+                System.out.printf("Huruf %s sudah anda masukkan", word);
                 System.out.println();
             }
         } else {

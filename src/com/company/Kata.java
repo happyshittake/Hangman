@@ -54,6 +54,6 @@ public class Kata {
     }
 
     public String getKata() {
-        return kata;
+        return this.kata;
     }
 }
